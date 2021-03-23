@@ -26,7 +26,7 @@ function generateMarkdown(data) {
 * ${data.usage}
 
 ## Contribution Guidelines
-
+:link:
 * ${data.contribution}
 
 ## Test Instructions
