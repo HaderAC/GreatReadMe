@@ -34,6 +34,8 @@ function generateMarkdown(data) {
 * ${data.test}
 
 # License Information
+:memo:
+:pencil:
 
 ### ${data.license}
 
