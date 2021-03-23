@@ -13,36 +13,42 @@ function generateMarkdown(data) {
 
 
 ## Description
-:computer:
+:spiral_notepad:
+
 * ${data.description}
 
 ## Installation Instructions
+
 :keyboard:
 :package:
 * ${data.installation}
 
 ## Usage
 :battery:
+
 * ${data.usage}
 
 ## Contribution Guidelines
 :link:
+
 * ${data.contribution}
 
 ## Test Instructions
 :open_book:
+
 * ${data.test}
 
 # License Information
 :memo:
 :pencil:
 
-### ${data.license}
+## ${data.license}
 
 * ${data.license}
 
 ## Questions
 :e-mail:
+
 If you have further questions you can contact ${data.email}.\n
 Github: ${data.github}
 `;
