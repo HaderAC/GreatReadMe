@@ -21,7 +21,7 @@ function generateMarkdown(data) {
 * ${data.installation}
 
 ## Usage
-
+:battery:
 * ${data.usage}
 
 ## Contribution Guidelines
