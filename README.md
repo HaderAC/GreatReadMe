@@ -1,6 +1,4 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-    return `# ${data.title}
+# GreatReadme Generator
 
 ## Table of Contents
 1. [Description](#description)
@@ -15,37 +13,33 @@ function generateMarkdown(data) {
 
 
 ## Description
-* ${data.description}
+* It creates a ReadMe file from the command line using Node.js using inquirer
 
 
 ## Installation Instructions
 
-* ${data.installation}
+* Download files in the repository and run index.js on node. 
 
 ## Usage
 
-* ${data.usage}
+* Answer the questions your prompted to after running index.js.
 
 ## Contribution Guidelines
 
-* ${data.contribution}
+* Fork repository and create pull requestes for approval. 
 
 ## Test Instructions
 
-* ${data.test}
+* npm test
 
 # License Information
 
-### ${data.license}
+### No license
 
-* ${data.license}
+* No license
 
 ## Questions
+:+1:
+If you have further questions you can contact HaderAC@Test.com.
 
-If you have further questions you can contact ${data.email}.\n
-Github: ${data.github}
-`;
-};
-
-
-module.exports = generateMarkdown;
+Github: @HaderAC

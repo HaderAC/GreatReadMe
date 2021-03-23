@@ -78,7 +78,7 @@ function init() {
         ])
         .then(answers => {
             let markdown = generateMarkdown(answers);
-            writeToFile("./README_files/README.md", markdown);
+            writeToFile("README.md", markdown);
         })
 
 }
