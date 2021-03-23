@@ -1,4 +1,4 @@
-# GoodReadMe Generator
+# GreatReadMe GEnerator
 
 ## Table of Contents
 1. [Description](#description)
@@ -13,24 +13,25 @@
 
 
 ## Description
-* To create a ReadMe file from the command line using Node.js.
+:computer:
+* To create a ReadMe file from the command line using Node.js
 
 
 ## Installation Instructions
-
-* create a package.json by installing inquire and fs into your main folder than require them from your index.js. initialize a fucntion in the index js to then generate the markdown in a seperate js file. Run the program using node index.js and that will generate the ReadMe.md file
+:keyboard:
+* Create a package.json by installing inquirer and fs into the main folder of the project,in an index.js file first requiere the necessary packes of inquirer, fs and a markdown, follow by  creating an array of questions, a function to write the read me and  a function to run the program and finally a function to initialize the program.  Make sure in the generate markdown.js file you use the apropriate parameter set by the inquire property to call the data and return it. 
 
 ## Usage
 
-* Answer the questions that are prompted. 
+* Answer the quiestions that are prompted and make sure not to press enter until the answer is completed.
 
 ## Contribution Guidelines
 
-* No contributing guidelines provided. 
+* No contribution guidelines provided.
 
 ## Test Instructions
 
-* npm test 
+* npm test
 
 # License Information
 

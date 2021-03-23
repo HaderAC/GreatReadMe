@@ -12,14 +12,12 @@ function generateMarkdown(data) {
 7. [Questions](#questions)
 
 
-
-
 ## Description
+:computer:
 * ${data.description}
 
-
 ## Installation Instructions
-
+:keyboard:
 * ${data.installation}
 
 ## Usage
