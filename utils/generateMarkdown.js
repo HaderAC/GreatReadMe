@@ -18,6 +18,7 @@ function generateMarkdown(data) {
 
 ## Installation Instructions
 :keyboard:
+:package:
 * ${data.installation}
 
 ## Usage
@@ -29,7 +30,7 @@ function generateMarkdown(data) {
 * ${data.contribution}
 
 ## Test Instructions
-
+:open_book:
 * ${data.test}
 
 # License Information
@@ -39,7 +40,7 @@ function generateMarkdown(data) {
 * ${data.license}
 
 ## Questions
-
+:e-mail:
 If you have further questions you can contact ${data.email}.\n
 Github: ${data.github}
 `;
