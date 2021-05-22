@@ -53,7 +53,7 @@ If you have further questions you can contact ${data.email}.\n
 Github: ${data.github}
 `;
 
-![screenshot](./Assets/ScreenShot.png)
+![screenshot](Assets/ScreenShot.png)
 
 
 };
