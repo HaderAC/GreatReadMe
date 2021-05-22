@@ -52,10 +52,12 @@ function generateMarkdown(data) {
 If you have further questions you can contact ${data.email}.\n
 Github: ${data.github}
 `
+![screenshot](Assets/ScreenShot.png)
 
+https://github.com/HaderAC/GreatReadMe/blob/main/README.md
 ;
 
-![screenshot](Assets/ScreenShot.png)
+
 
 
 };
