@@ -1,4 +1,4 @@
-# Read me Generator
+# Great ReadMe Generator
 
 ## Table of Contents
 1. [Description](#description)
@@ -13,18 +13,18 @@
 ## Description
 :spiral_notepad:
 
-* This is a node based application that generates a readme markdown from the command line prompts and will ask multiple questions.  It uses the node package inquirer to generate the promps. 
+* This is an application based on node that generates a ReadMe.md from the commandline propmpts. The prompts will ask a series of question ( as it is happening right now) that will generate a read me from the answers. The application uses node package inquirer to generate the prompts.
 
 ## Installation Instructions
 
 :keyboard:
 :package:
-* There are none. 
+* There are no installation instructions for this App.
 
 ## Usage
 :battery:
 
-* The prompts need to be follwed, as i am doing right now
+* we use node index.js from the directory to run.
 
 ## Contribution Guidelines
 :link:
@@ -34,7 +34,7 @@
 ## Test Instructions
 :open_book:
 
-* There are no instructions
+* There are no test instructions
 
 # License Information
 :memo:
