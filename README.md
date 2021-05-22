@@ -55,4 +55,4 @@ If you have further questions you can contact Hadercortes@yahoo.com.
 Github: HaderAc@github.com
 
 
-[![Walk thru of app video](https://github.com/HaderAC/GreatReadMe/blob/main/Assets/READMEVID.mp4)
+[![Walk thru of app video](./Assets/READMEVID.mp4)
