@@ -55,4 +55,4 @@ If you have further questions you can contact Hadercortes@yahoo.com.
 Github: HaderAc@github.com
 
 
-![Walk thru of app video](https://drive.google.com/file/d/1JqlsJ5f9xyPdjohHUQWge4LXjWITB2tt/view)
+![Walk thru of app video](./Assets/READMEVID.mp4)
