@@ -1,4 +1,4 @@
-# werte
+# Team Profile Generator
 
 ## Table of Contents
 1. [Description](#description)
@@ -13,28 +13,28 @@
 ## Description
 :spiral_notepad:
 
-* wertwet
+* This terminal based app lets you add employees using prompts. Once complete an HTML will be created showing all of the members of the employee team with their respected information.
 
 ## Installation Instructions
 
 :keyboard:
 :package:
-* ewrtwert
+* You install using node.index.js on the terminal
 
 ## Usage
 :battery:
 
-* ewrtewrt
+* Fill out the prompts when asked and continue to add members until the team is ready to be built
 
 ## Contribution Guidelines
 :link:
 
-* ewtrewrt
+* jest inquirer 
 
 ## Test Instructions
 :open_book:
 
-* ewrterwt
+* no instructions needed
 
 # License Information
 :memo:
@@ -47,6 +47,6 @@
 ## Questions
 :e-mail:
 
-If you have further questions you can contact jhgfd.
+If you have further questions you can contact hadercortes@yahoo.com.
 
-Github: ewrtewrt
+Github: HaderAC@yahoo.com
