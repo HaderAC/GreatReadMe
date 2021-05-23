@@ -1,4 +1,4 @@
-# Team Profile Generator
+# GreatReadMe Generator
 
 ## Table of Contents
 1. [Description](#description)
@@ -13,28 +13,28 @@
 ## Description
 :spiral_notepad:
 
-* This terminal based app lets you add employees using prompts. Once complete an HTML will be created showing all of the members of the employee team with their respected information.
+* This node app allows you to follow a series of prompts that create a read me file using inquire package.
 
 ## Installation Instructions
 
 :keyboard:
 :package:
-* You install using node.index.js on the terminal
+* need to run node.index.js
 
 ## Usage
 :battery:
 
-* Fill out the prompts when asked and continue to add members until the team is ready to be built
+* Need to run node index.js
 
 ## Contribution Guidelines
 :link:
 
-* jest inquirer 
+* inquirer package
 
 ## Test Instructions
 :open_book:
 
-* no instructions needed
+* no instructions provided
 
 # License Information
 :memo:
@@ -47,6 +47,6 @@
 ## Questions
 :e-mail:
 
-If you have further questions you can contact hadercortes@yahoo.com.
+If you have further questions you can contact HaderCortes@ yahoo.com https://youtu.be/xP6TsPLcLHU.
 
-Github: HaderAC@yahoo.com
+Github: HaderAC@github 
