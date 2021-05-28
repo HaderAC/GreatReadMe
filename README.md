@@ -1,7 +1,7 @@
-# GreatReadMe Generator
+# Team Profile Generator
 
 ## Table of Contents
-- [GreatReadMe Generator](#greatreadme-generator)
+- [Team Profile Generator](#team-profile-generator)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Installation Instructions](#installation-instructions)
@@ -16,28 +16,28 @@
 ## Description
 :spiral_notepad:
 
-* This is an app that runs with node. The app will prompt you to answers the quations necessary to fill out the read me file. It uses the inquirer package.
+* This is a node.js command line application that takes in information about employees on a sofware engineering team, then generates an HTML webpage that displays summaries of each person. 
 
 ## Installation Instructions
 
 :keyboard:
 :package:
-* To install run node index.js
+* run node index.js
 
 ## Usage
 :battery:
 
-* No instructions provided
+* No usage intructions offered
 
 ## Contribution Guidelines
 :link:
 
-* inquiere package
+* Jest for running the unti test and Inquirer for collecting imput from user. 
 
 ## Test Instructions
 :open_book:
 
-* Run node index.js
+* Apropriate test files created to test code.
 
 # License Information
 :memo:
@@ -54,5 +54,4 @@ If you have further questions you can contact Hadercortes@yahoo.com.
 
 Github: HaderAC@github.com
 
-
-![screeshot](Assets/ScreenShot.png)
+[https://www.youtube.com/watch?v=xP6TsPLcLHU]
